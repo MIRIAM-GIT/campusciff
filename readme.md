@@ -49,7 +49,6 @@
 
 ![Imagen 5](https://imgur.com/p2AcTkT.png)
 
-
 	9. Añadir fichero 1.txt al repositorio local:
 
 ![Imagen 5](https://imgur.com/WACgFR4.png)
@@ -68,7 +67,6 @@
 
 	13. Seguir los repositorios campusciff del resto de tus compañeros:
 
-
 ![Imagen 5](https://imgur.com/o2nldSw.png)
 
 ![Imagen 5](https://imgur.com/IzH0FWD.png)
@@ -83,7 +81,18 @@ Con la estrella ya añadida:
 
 	15. Crea una tabla de este estilo en el fichero README.md con la informacion de varios compañeros de clase:
 
-![Imagen 5](.png)
+
+	| NOMBRE | GITHUB |
+
+	| ------ | ------ |
+
+	| RAFA | [Enlace de GitHub] (https://github.com/RuFFuS4/campusciff)
+
+	| LUISMI | [Enlace de GitHub] (https://github.com/LuismiDeveloper/campusciff)
+
+	| DAVID | [Enlace de GitHub] (https://github.com/davidfuentes2755/campusciff)
+
+
 
 
 # Ejercicio Avanzados GitHub 
