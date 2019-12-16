@@ -1,5 +1,6 @@
 
 # Ejercicio Basico GitHub 
+
 ## Miriam Peña López
 
 ### Imagen cuenta en GitHub
@@ -69,7 +70,15 @@
 
 ![Imagen 5](https://imgur.com/o2nldSw.png)
 
-![Imagen 5](https://imgur.com/IzH0FWD.png)
+![Imagen 5](https://imgur.com/CWCWfOk.png)
+
+![Imagen 5](https://imgur.com/20POe1e.png)
+
+![Imagen 5](https://imgur.com/fSQgjsA.png)
+
+![Imagen 5](https://imgur.com/svZkHen.png)
+
+![Imagen 5](https://imgur.com/XHkl1XU.png)
 
 	14. Añadir una estrella al repositorio campusciff del resto de tus compañeros:
 
