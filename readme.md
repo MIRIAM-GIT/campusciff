@@ -91,15 +91,11 @@ Con la estrella ya añadida:
 	15. Crea una tabla de este estilo en el fichero README.md con la informacion de varios compañeros de clase:
 
 
-	| NOMBRE | GITHUB |
-
-	| ------ | ------ |
-
-	| RAFA | [Enlace de GitHub] (https://github.com/RuFFuS4/campusciff)
-
-	| LUISMI | [Enlace de GitHub] (https://github.com/LuismiDeveloper/campusciff)
-
-	| DAVID | [Enlace de GitHub] (https://github.com/davidfuentes2755/campusciff)
+| NOMBRE | GITHUB |
+| - | - |
+| RAFA | https://github.com/RuFFuS4/campusciff |
+| LUISMI | https://github.com/LuismiDeveloper/campusciff |
+| DAVID | https://github.com/davidfuentes2755/campusciff |
 
 
 
